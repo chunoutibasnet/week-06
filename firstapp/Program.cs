@@ -23,6 +23,9 @@ class Program
         Console.WriteLine("Name of 1st Customer: " + customer1.Name);
 
         Console.WriteLine("ID of 2nd Customer:" + customer2.Id);
-       
+        
+        // adding new line to see file status (git)
+      Console.WriteLine("testing changes .....")
+
     }
 }
